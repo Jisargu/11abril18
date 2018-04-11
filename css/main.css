@@ -1,0 +1,17 @@
+body{
+    background-image: url(../img/fondos/threats.png); /*url relativa de donde "esta este archivo"*/
+    background-size :cover; /*no repite la imagen y cubre el fondo*/
+    background-color: silver;
+}
+img{
+    height: 300px;
+    width: 500px;
+}
+.cake img{
+    width: 500px;
+    height: 300px;
+}
+.tibu img{
+    width: 250px;
+    height: 150px;
+}
